@@ -1,0 +1,13 @@
+package com.loda.brd;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class LodaServerApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
